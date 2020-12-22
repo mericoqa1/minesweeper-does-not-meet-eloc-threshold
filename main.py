@@ -17,10 +17,6 @@
         return g
     elif h:
         return h
-    elif i:
-        return i
-    elif j:
-        return j
 
 
 def test2():
@@ -40,5 +36,3 @@ def test2():
         return g
     elif h:
         return h
-    elif i:
-        return i
